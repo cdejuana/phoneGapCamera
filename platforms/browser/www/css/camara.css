@@ -1,0 +1,57 @@
+body {
+	margin: 0px;
+	padding: 20px 0;
+	font-size: 18px;
+	font-family: "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-weight: 300;
+}
+
+.header {
+	padding: 0 10px;
+	color: #666;
+	background-color: #EEE;
+	text-align: center;
+	height: 48.4px;
+	line-height: 48.4px;
+}
+
+.footer {
+	font-size: small;
+	font-style: italic;
+	padding: 5px;
+	text-align: center;
+}
+
+#foto {
+	height: 400px;
+	width: 98%;
+	border: 1px solid;
+	margin: 1%;
+	box-sizing: border-box;
+}
+
+.button-container {
+	/*margin-left: auto;
+	margin-right: auto;*/
+	margin: 1rem;
+	text-align: center;
+}
+
+.button {
+	border: 1px solid;
+	color: #FFF;
+	padding: 10px;
+}
+
+#button-action {
+	font-size: large;
+	border-radius: 10px;
+	background-color: #FD4140;
+}
+
+#icono-camara {
+	width: 35px;
+	height: 33px;
+	float: left;
+	margin: 8px;
+}
